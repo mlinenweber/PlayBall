@@ -1,0 +1,22 @@
+Baltimore Orioles
+    WGBH 1250
+    WWTX 1290
+    WBEY 97.9
+    WJZ 105.7
+    WGOP 540
+    WHGM 1330
+    WIJK 1590
+    WKDW 900
+    WTHU 1450
+    WTEM 980
+    WTTR 1470
+    WVSP 94.1
+    WSPZ 570
+    WCTR 1530
+    WTBO 1450
+    WFRB 560
+    WSBA 910
+    WHAP 1340
+    WMRE 1550
+    WEPM 1340
+    WNAV 1430

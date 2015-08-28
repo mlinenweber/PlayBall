@@ -1,0 +1,18 @@
+Houston Astros
+    KETX 1440
+    KZNE 1150
+    KPUR 1440
+    KKAM 1340
+    KMVL 100.5
+    WSLA 1560
+    KVET 1300
+    KBYG 1400
+    KTEM 1400
+    KWHI 1280
+    KULM 98.3
+    KSIX 1230
+    KBME 790
+    KTKR 760
+    KEZM 1310
+    KSYB 1300
+    KTWL 105.3

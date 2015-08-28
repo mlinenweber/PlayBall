@@ -1,0 +1,25 @@
+Cleveland Indians
+    WMVO 1300
+    WLKR 95.3
+    WBNS 97.1
+    WDLR 1550
+    WSPD 1370
+    WMRN 1490
+    WBNV 93.5
+    WTAM 1100
+    WEOL 930
+    WFOB 1430
+    WMAN 1400
+    WAKR 1590
+    WMMS 100.7
+    WLEC 1450
+    WBTC 1540
+    WJER 1450
+    WHBC 1480
+    WFIN 1330
+    WLOH 1320
+    WKBN 570
+    WQEL 92.7
+    WBNO 100.9
+    WWSR 93.1
+    WFUN 970

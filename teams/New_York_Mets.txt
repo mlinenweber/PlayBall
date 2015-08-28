@@ -1,0 +1,4 @@
+http://espn.go.com/espnradio/affPopup?s=wtla-am WTLA 1200
+http://www.iheart.com/live/espn-radio-1300-3281/?autoplay=true&pname=4243&campid=play_bar&cid=main.html WAVZ 1300
+http://24.97.34.45:88/broadwavehigh.mp3?src=1 WCSS 1490
+http://www.iheart.com/live/710-wor-5874/?autoplay=true&pname=15100&campid=play_bar&cid=main.html WOR 710

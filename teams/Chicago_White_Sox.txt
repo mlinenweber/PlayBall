@@ -1,0 +1,16 @@
+Chicago White Sox
+    WSCR 670
+    WAIK 1590
+    WAOR 95.7
+    WBCP 1580
+    WBIG 1280
+    WCMY 1430
+    WLBK 1360
+    WLQI 97.7
+    WRIN 1560
+    WMRI 860
+    WMRS 107.7
+    WSDR 1240
+    WZOE 1490
+    WRHL 1060
+    WVIL 101.3
