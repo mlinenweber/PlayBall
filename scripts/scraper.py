@@ -6,4 +6,5 @@ tree = html.fromstring(page.text)
 hrefs = tree.xpath('//a[@href]/attribute::href')
 texts = tree.xpath('//a[@href]/text()')
 for i in range(len(hrefs)):
- print hrefs[i], texts[i]
+    if hrefs[i].startswith('http'):
+        print hrefs[i], texts[i]
