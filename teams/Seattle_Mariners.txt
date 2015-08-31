@@ -1,18 +1,17 @@
-Seattle Mariners
-KIFW 1230
-KXLY 920
-KTIX 1240
-KMTT 910
-KVNI 1080
-KTZN 550
-KBRC 1430
-KONP 1450
-KIRO 710
-KTKN 930
-KINY 800
-KMAS 1030
-CKST 1040
-KPUG 1170
-KELA 1470
-KLOG 1490
-KXRO 1320
+http://radio.securenetsystems.net/v5/KIFW KIFW 1230
+http://player.listenlive.co/28851 KXLY 920
+http://player.listenlive.co/32491 KTIX 1240
+http://v6.player.abacast.net/2150 KMTT 910
+http://spokaneradio.com/player/kvniam.html KVNI 1080
+http://www.iheart.com/live/alaskas-espn-550-the-zone-5226/?autoplay=true&pname=704&campid=play_bar&cid=main.html KTZN 550
+http://radio.securenetsystems.net/v5/KBRC KBRC 1430
+http://lightningstream.surfernetwork.com/Media/player/view/KONP_gsl.asp?StreamingServerName=nick11&OnDemandServerName=nick10&targetWidth=1000&targetHeight=800&call=KONP KONP 1450
+http://player.listenlive.co/35801 KIRO 710
+http://ketchikanradio.com/shoutplayer/?rCall=ktkn KTKN 930
+http://radio.securenetsystems.net/v5/KINY KINY 800
+http://tunein.com/radio/KMAS-1030-s33960/ KMAS 1030
+http://radio.securenetsystems.net/v5/KIFW CKST 1040
+http://player.liquidcompass.net/KPUGAM KPUG 1170
+http://v6.player.abacast.net/2467 KELA 1470
+http://tunein.com/radio/KLOG-1490-s33815/ KLOG 1490
+http://mgmt.firststreaming.com/listen/player.php?callsign=KXRO_AM KXRO 1320

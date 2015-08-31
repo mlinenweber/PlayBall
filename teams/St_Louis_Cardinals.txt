@@ -1,11 +1,3 @@
-index.html Home
-about.html About Us
-contact.html Contact Us
-mlb.html MLB Teams
-hints.html Hints
-download.html Downloads
-schedule.html Schedule
-hints.html hints.
 http://player.fullviewplayer.com/?pid=992 WJBC 1230
 http://radio.securenetsystems.net/v5/WFMW WFMW 730
 http://radio.securenetsystems.net/v5/KAANFM KAAN 95.5
@@ -76,8 +68,3 @@ http://streamdb5web.securenetsystems.net/v5/WMSK WMSK 1550
 http://www.broadcastmatrix.com/optional/kurmfm/windows.asx KURM 100.3
 http://radio.securenetsystems.net/v5/WQTY WQTY 93.3
 http://myradiostream.com/6/10254 KASR 92.7
-http://zunox.hk/zxtv35.html Zunox TV
-StlouisJuly.html ‹ Prev
-StlouisSep.html Next ›
-http://www.google.com/ 
-

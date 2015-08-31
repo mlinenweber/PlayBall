@@ -1,18 +1,14 @@
-Tampa Bay Rays
-
-WFHT 1390
-WMEL 1300
-WTAN 1340
-WFWN 1240
-WRUF 850
-WXJB 99.9
-WKII 1070
-WSRQ 1220
-WWJB 1450
-WTAL 1450
-WORL 660
-WTZB 105.9
-WBZW 1520
-WZHR 1400
-WDCF 1350
-WDAE 620
+http://player.radioloyalty.com/station/8036.html WFHT 1390
+http://www.1300wmel.com/custom/index.cfm?id=215916 WMEL 1300
+http://thefan.am/live WFWN 1240
+http://www.wruf.com/stream-player/ WRUF 850
+http://radio.securenetsystems.net/v5/WXJB WXJB 99.9
+http://www.iheart.com/live/1070-nbc-sports-5106/?autoplay=true&pname=9269&campid=play_bar&cid=main.html WKII 1070
+http://radio.securenetsystems.net/v5/WSRQ WSRQ 1220
+http://radio.securenetsystems.net/v5/WWJB WWJB 1450
+http://www.ustream.tv/channel/wtal1450am-talk-radio WTAL 1450
+http://saleminteractivemedia.com/ListenLive/Player/WORLAM WORL 660
+http://www.iheart.com/live/1059-the-buzz-645/?autoplay=true&pname=2054&campid=play_bar&cid=main.html WTZB 105.9
+http://saleminteractivemedia.com/ListenLive/Player/WBZWAM WBZW 1520
+http://wzhr.tantalk1340.com/ WZHR 1400
+http://www.iheart.com/live/620-wdae-673/?autoplay=true&pname=1124&campid=play_bar&cid=main.html WDAE 620

@@ -1,11 +1,3 @@
-index.html Home
-about.html About Us
-contact.html Contact Us
-mlb.html MLB Teams
-hints.html Hints
-download.html Downloads
-schedule.html Schedule
-hints.html hints.
 http://www.iheart.com/live/940-winz-565/?autoplay=true&pname=1174&campid=play_bar&cid=main.html WINZ 940
 http://www.iheart.com/live/1230-am-wbzt-701/?autoplay=true&pname=1112&campid=play_bar&cid=main.html WBZT 1230
 http://www.iheart.com/live/1240-1350-wmmb-553/?autoplay=true&pname=1213&campid=play_bar&cid=main.html WMMB 1240
@@ -13,8 +5,3 @@ http://www.iheart.com/live/WKWF-AM-Sports-Talk-Radio-4844/ WKWF 1600
 http://www.newstalkflorida.com/am-1060-2/ WIXC 1060
 http://www.sportstalkflorida.com/sports-talk-1080-station/ WHOO 1080
 http://tunein.com/radio/WFLN-1480-s24437/ WFLN 1480
-http://zunox.hk/zxtv33.html Zunox TV
-FloridaJuly.html ‹ Prev
-FloridaSep.html Next ›
-http://www.google.com/ 
-

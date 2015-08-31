@@ -1,11 +1,3 @@
-index.html Home
-about.html About Us
-contact.html Contact Us
-mlb.html MLB Teams
-hints.html Hints
-download.html Downloads
-schedule.html Schedule
-hints.html hints.
 http://cms.vipology.com/wjmsfm-player.php WJMS 590
 http://streamdb1web.securenetsystems.net/v5/WISS WISS 1100
 http://www.mainstreamnetwork.com/listen/player.asp?station=wrco-am WRCO 1450
@@ -32,7 +24,3 @@ http://www.iheart.com/live/wiba-am-2661/?autoplay=true&pname=1170&campid=play_ba
 http://www.620wtmj.com/listen-live WTMJ 620
 http://player.listenlive.co/31231 WGLR 1280
 http://player.listenlive.co/31221 WPVL 1590
-MilwaukeeJuly.html ‹ Prev
-MilwaukeeSep.html Next ›
-http://www.google.com/ 
-

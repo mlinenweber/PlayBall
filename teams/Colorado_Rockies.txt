@@ -1,11 +1,3 @@
-index.html Home
-about.html About Us
-contact.html Contact Us
-mlb.html MLB Teams
-hints.html Hints
-download.html Downloads
-schedule.html Schedule
-hints.html hints.
 http://stream.kspk.com:8000/live.mp3.m3u KSPK 102.3
 http://player.liquidcompass.net/KNEBAM KNEB 960
 http://www.iheart.com/live/fox-sports-radio-4732/?pname=13133&campid=play_bar&cid=main.html WRKI 99.5
@@ -22,7 +14,3 @@ http://www.iheart.com/live/590-kcsj-4814/?autoplay=true&pname=599&campid=play_ba
 http://streamdb5web.securenetsystems.net/v5/KCSR KCSR 610
 http://www.necolorado.com/ksir.asx KSIR 1010
 http://radio.securenetsystems.net/v5/KFBC KFBC 1240
-ColoradoJuly.html ‹ Prev
-ColoradoSep.html Next ›
-http://www.google.com/ 
-

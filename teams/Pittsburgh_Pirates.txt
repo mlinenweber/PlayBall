@@ -1,11 +1,3 @@
-index.html Home
-about.html About Us
-contact.html Contact Us
-mlb.html MLB Teams
-hints.html Hints
-download.html Downloads
-schedule.html Schedule
-hints.html hints.
 http://player.listenlive.co/26791 WCNS 1480
 http://www.iheart.com/live/sportsanimal-1390wnio-2760/?autoplay=true&pname=1224&campid=play_bar&cid=main.html WNIO 1390
 http://player.radio.com/listen/station/93-7-the-fan KDKA 93.7
@@ -19,8 +11,3 @@ http://v6.player.abacast.net/2447 WDDH 97.5
 http://www.3592.com/onlinedb/weiram/docs/player.htm WEIR 1430
 http://radio.securenetsystems.net/v5/WMBS WMBS 590
 http://radio.securenetsystems.net/v5/WJPAFM WJPA 1450
-http://zunox.hk/zxtv33.html Zunox TV
-PittsburghJuly.html ‹ Prev
-PittsburghSep.html Next ›
-http://www.google.com/ 
-

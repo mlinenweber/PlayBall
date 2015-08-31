@@ -1,11 +1,3 @@
-index.html Home
-about.html About Us
-contact.html Contact Us
-mlb.html MLB Teams
-hints.html Hints
-download.html Downloads
-schedule.html Schedule
-hints.html hints.
 http://lightningstream.surfernetwork.com/Media/player/view/WEZW_gsl.asp?StreamingServerName=nick11&OnDemandServerName=nick10&targetWidth=1000&targetHeight=800&call=WEZW WEZW 93.1
 http://tunein.com/radio/WNPV-1440-s21529/ WNPV 1440
 http://player.radio.com/listen/station/talk-radio-1210-wpht WPHT 1210
@@ -21,8 +13,3 @@ http://www.iheart.com/live/News-Talk-WRAK-6287/?autoplay=true&pname=1243&campid=
 http://www.delmarvabroadcasting.com/player/?st=WDEL WDEL 1150
 http://lightningstream.surfernetwork.com/Media/player/view/WMID_gsl.asp?StreamingServerName=nick11&OnDemandServerName=nick10&targetWidth=1000&targetHeight=800&call=WMID WMID 1340
 http://lightningstream.surfernetwork.com/Media/player/view/WZXL_gsl.asp?StreamingServerName=nick11&OnDemandServerName=nick10&targetWidth=1000&targetHeight=800&call=WZXL WZXL 100.7
-http://zunox.hk/zxtv30.html Zunox TV
-PhiladelphiaJuly.html ‹ Prev
-PhiladelphiaSep.html Next ›
-http://www.google.com/ 
-

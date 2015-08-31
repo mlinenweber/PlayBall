@@ -1,10 +1,9 @@
-Oakland Athletics
-    KMYC 1410
-    KPOD 1240
-    KVON 1440
-    KNRO 1670
-    KGMZ 95.7
-    KAHI 950
-    KATA 1340
-    KIQI 1010
-    KHTK 1140
+http://www.kmycradio.com/player.php KMYC 1410
+http://www.kpod.com/upload/live/kpod.asx KPOD 1240
+http://streamdb5web.securenetsystems.net/v5/KVON KVON 1440
+http://www.iheart.com/live/fox-sports-radio-4732/?autoplay=true KNRO 1670
+http://v6.player.abacast.net/2164 KGMZ 95.7
+http://v5.player.abacast.com/v5.1/player/index.php?uid=6092 KAHI 950
+http://v6.player.abacast.net/45 KATA 1340
+http://www.serverroom.us/asx/listen283138.asx KIQI 1010
+http://www.serverroom.us/asx/listen283138.asx KHTK 1140
