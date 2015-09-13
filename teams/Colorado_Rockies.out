@@ -1,8 +1,8 @@
-http://stream.kspk.com:8000/live.mp3.m3u
-http://ice8.securenetsystems.net/KMMR.m3u
-http://ice6.securenetsystems.net/KVOW.m3u
-http://ice10.securenetsystems.net/KOOQ.m3u
-http://www.ophanim.net:9630/listen.pls
-http://s9.viastreaming.net:9650/listen.pls
-http://alpha.newerastreaming.com:8018/listen.pls
-http://ice2.securenetsystems.net/KFBC.m3u
+http://stream.kspk.com:8000/live.mp3.m3u KSPK
+http://ice8.securenetsystems.net/KMMR.m3u KMMR
+http://ice6.securenetsystems.net/KVOW.m3u KVOW
+http://ice10.securenetsystems.net/KOOQ.m3u KOOQ
+http://www.ophanim.net:9630/listen.pls KTMM
+http://s9.viastreaming.net:9650/listen.pls KCSR
+http://alpha.newerastreaming.com:8018/listen.pls KSIR
+http://ice2.securenetsystems.net/KFBC.m3u KFBC

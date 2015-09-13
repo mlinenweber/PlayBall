@@ -1,7 +1,7 @@
-http://sh.tampa-us.audio-stream.com/tunein/wbnv.pls
-http://icy3.abacast.com/elyrialorain-weolamaac-64.m3u
-http://rfe2-r1.alldigital.net:8000/lmjc3269.m3u
-http://provisioning.streamtheworld.com/pls/WJER.pls
-http://173.193.205.96:2199/tunein/wloh.pls
-http://den-a.plr.liquidcompass.net/pls/WQELFMMP3.pls
-http://ice6.securenetsystems.net/WBNO.m3u
+http://sh.tampa-us.audio-stream.com/tunein/wbnv.pls WBNV
+http://icy3.abacast.com/elyrialorain-weolamaac-64.m3u WEOL
+http://rfe2-r1.alldigital.net:8000/lmjc3269.m3u WLEC
+http://provisioning.streamtheworld.com/pls/WJER.pls WJER
+http://173.193.205.96:2199/tunein/wloh.pls WLOH
+http://den-a.plr.liquidcompass.net/pls/WQELFMMP3.pls WQEL
+http://ice6.securenetsystems.net/WBNO.m3u WBNO

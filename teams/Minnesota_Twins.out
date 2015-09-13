@@ -1,14 +1,13 @@
-http://ice7.securenetsystems.net/CRUISIN.m3u
-http://ice8.securenetsystems.net/KNDC.m3u
-http://ice8.securenetsystems.net/KRVY.m3u
-http://stream.liquidcompass.net/KNOXAMAAC.pls
-http://ice23.securenetsystems.net/KOVC.m3u
-http://ice6.securenetsystems.net/KBMWAM.m3u
-http://1.ice1.firststreaming.com:8000/kwng_fm.aac.m3u
-http://icy3.abacast.com/threeeagles-mcwkytcfm2-32.m3u
-http://1.ice1.firststreaming.com:8000/wbha_am.aac.m3u
-http://1.ice1.firststreaming.com:8000/wbha_am.aac.m3u
-http://rfe1-r1.alldigital.net:8000/lmjc77.m3u
-http://173.193.205.96:8236/listen.pls
-http://ice23.securenetsystems.net/KDAK.m3u
-http://206.53.195.54:8000/listen.pls
+http://ice7.securenetsystems.net/CRUISIN.m3u KCFI
+http://ice8.securenetsystems.net/KNDC.m3u KNDC
+http://ice8.securenetsystems.net/KRVY.m3u KRVY
+http://stream.liquidcompass.net/KNOXAMAAC.pls KNOX
+http://ice23.securenetsystems.net/KOVC.m3u KOVC
+http://ice6.securenetsystems.net/KBMWAM.m3u KBMW
+http://1.ice1.firststreaming.com:8000/kwng_fm.aac.m3u KWNG
+http://icy3.abacast.com/threeeagles-mcwkytcfm2-32.m3u KYTC
+http://1.ice1.firststreaming.com:8000/wbha_am.aac.m3u WBHA
+http://rfe1-r1.alldigital.net:8000/lmjc77.m3u KDLM
+http://173.193.205.96:8236/listen.pls KUAL
+http://ice23.securenetsystems.net/KDAK.m3u KDAK
+http://206.53.195.54:8000/listen.pls KYMN
